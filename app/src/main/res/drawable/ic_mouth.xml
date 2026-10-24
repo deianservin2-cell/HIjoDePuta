@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- grito: boca abierta -->
+    <path android:fillColor="#2B0000" android:pathData="M54,32 C72,32 82,44 82,58 C82,74 70,84 54,84 C38,84 26,74 26,58 C26,44 36,32 54,32 Z"/>
+    <!-- dientes -->
+    <path android:fillColor="#FFFFFF" android:pathData="M34,42 L74,42 L72,52 L36,52 Z"/>
+    <!-- lengua -->
+    <path android:fillColor="#FF5C7A" android:pathData="M38,80 C42,66 66,66 70,80 C62,86 46,86 38,80 Z"/>
+    <!-- ondas de grito -->
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M16,34 L24,38 M12,56 L22,56 M16,78 L24,74 M92,34 L84,38 M96,56 L86,56 M92,78 L84,74"/>
+</vector>
